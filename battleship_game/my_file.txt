@@ -1,0 +1,28 @@
+﻿					Yaranma tarixi
+
+			Doyus gemisi iki oyuncu uçun muharibe movzusunda stolustu oyundur.
+			Bu oyunda reqibler reqibinin doyus gemilerinin yerini texmin etmeye 
+			ve onlari batirmaga calisirlar. Oyunun kagiz ve karandas versiyasi 
+			Birinci Dunya muharibesine tesaduf edir, lakin əkser insanlar bu oyunla 
+			ilk defe 1967-ci ildəe Milton Bradley Company terefinden bazara cıxan plastik
+			stolustu oyun vasitesile tanis olurlar. O vaxtdan etibaren oyun muxtelif video 
+			oyunlar ve smartfon app variasiyalari yaradir. Bu gün stolostu oyun versiyasi 
+			1984-cu ilde Milton Bredlini elde eden Hasbro şirketi terefinden istehsal olunur.
+
+						Oynama Qaydasi
+
+			Oyun açiq-askardir. Her bir oyuncu saquli ve ufuqi feza koordinatlari olan plastik
+			şebekede gemileri gizledir. Oyuncular novbə ile gemi olan kvadrati muəyyən etmek 
+			meqsedile diger oyuncunun sebekesinde cerge ve sutun koordinatlarini cagirirlar.
+
+
+						Esas Gameplay
+			Oyuncular novbe ile reqibin duşmen gemilərini vurmaga cehd etmek ucun (grid koordinat 
+			cagiraraq) ates acirlar.Sizin novbenizde hedef sebekenizde bir sira ve sutunu mueyyen
+			eden bir mektub ve bir nomre cagirin. Sizin opponent onlarin okean sebekesinde koordinasiya
+			eden yoxlayir ve orada gemi yoxdursa sifahi olaraq "miss" cavab verir. Ve ya 
+			eger siz duzgun bir gemi ile mesgul olan bir yeri texmin etmissinizse ,"vurun".
+
+
+
+
